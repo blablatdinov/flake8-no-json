@@ -23,7 +23,6 @@
 # flake8: noqa: WPS232, WPS226
 
 import ast
-import sys
 from collections.abc import Generator
 from typing import final
 
