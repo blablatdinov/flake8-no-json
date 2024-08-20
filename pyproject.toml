@@ -23,7 +23,7 @@
 [tool.poetry]
 name = "flake8-no-json"
 description = "flake8 plugin for using json from stdlib"
-version = "0.0.1"
+version = "0.0.2"
 license = "MIT"
 
 authors = ["Almaz Ilaletdinov <a.ilaletdinov@yandex.ru>"]
