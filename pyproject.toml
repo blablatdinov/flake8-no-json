@@ -43,10 +43,10 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.9"
-flake8 = "^7.1"
+flake8 = ">=5"
 
 [tool.poetry.plugins."flake8.extension"]
-FIN = "flake8_no_json.entry:Plugin"
+NJN = "flake8_no_json.entry:Plugin"
 
 [tool.poetry.group.test.dependencies]
 mypy = "1.11.1"
