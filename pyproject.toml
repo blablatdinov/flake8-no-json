@@ -50,7 +50,7 @@ NJN = "flake8_no_json.entry:Plugin"
 
 [tool.poetry.group.test.dependencies]
 mypy = "1.17.0"
-wemake-python-styleguide = "0.19.2"
+wemake-python-styleguide = "1.3.0"
 pytest = "8.4.1"
 pytest-cov = "6.2.1"
 pytest-randomly = "3.16.0"
