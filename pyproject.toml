@@ -49,7 +49,7 @@ flake8 = ">=5"
 NJN = "flake8_no_json.entry:Plugin"
 
 [tool.poetry.group.test.dependencies]
-mypy = "1.17.0"
+mypy = "1.17.1"
 wemake-python-styleguide = "0.19.2"
 pytest = "8.4.1"
 pytest-cov = "6.2.1"
