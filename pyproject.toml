@@ -52,7 +52,7 @@ NJN = "flake8_no_json.entry:Plugin"
 mypy = "1.17.1"
 wemake-python-styleguide = "0.19.2"
 pytest = "8.4.2"
-pytest-cov = "6.2.1"
+pytest-cov = "6.3.0"
 pytest-randomly = "3.16.0"
 astpretty = "3.0.0"
 
