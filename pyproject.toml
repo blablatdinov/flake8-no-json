@@ -24,7 +24,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.10"
-flake8 = ">=5"
+flake8 = "^7.1"
 
 [tool.poetry.plugins."flake8.extension"]
 NJN = "flake8_no_json.entry:Plugin"
